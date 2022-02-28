@@ -1,0 +1,199 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A speech delivered by Mr. Pym, at a conference of both Houses; ocasioned from divers instructions, resolved upon by the House of Commons, and presented to the Lords, and read by Sir Henry Vayne. Discovering the dangers and miseries the three kingdomes are liable unto, by reason of his Majesties evill counsellors as the effects doth declare. As also, the justice, reasonablenesse, and necessitie of changing them.</title>
+            <author>Pym, John, 1584-1643.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91394</idno>
+            <idno type="STC">Wing P4283</idno>
+            <idno type="STC">Thomason E200_49</idno>
+            <idno type="STC">ESTC R14471</idno>
+            <idno type="EEBO-CITATION">99859669</idno>
+            <idno type="PROQUEST">99859669</idno>
+            <idno type="VID">111764</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91394)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111764)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 35:E200[49])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A speech delivered by Mr. Pym, at a conference of both Houses; ocasioned from divers instructions, resolved upon by the House of Commons, and presented to the Lords, and read by Sir Henry Vayne. Discovering the dangers and miseries the three kingdomes are liable unto, by reason of his Majesties evill counsellors as the effects doth declare. As also, the justice, reasonablenesse, and necessitie of changing them.</title>
+                  <author>Pym, John, 1584-1643.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Bull,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>June 15. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Vane, Henry, --  Sir, 1612?-1662 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-06</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-06</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111764:1" rendition="simple:additions"/>
+            <p> A SPEECH DELIVERED BY M<hi rend="sup">r.</hi> PYM, AT A CONFERENCE OF BOTH HOUSES;</p>
+            <p>Ocaſioned from divers Inſtructions, Reſolved upon by the Houſe of Commons, and preſented to the Lords, and read by Sir HENRY VAYNE.</p>
+            <p>Diſcovering the dangers and miſe<g ref="char:EOLhyphen"/>ries the three Kingdomes are liable unto, by Reaſon of his Majeſties evill Counſellors as the effects doth declare.</p>
+            <p>As alſo, the Juſtice, Reaſonableneſſe, and Neceſſitie of changing them.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John Bull,</hi> June 15. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:111764:2"/>
+            <pb n="1" facs="tcp:111764:2"/>
+            <head>AT A CONFERENCE OF BOTH Houſes, there was preſented to the Lords <hi>divers Inſtructions, agreed upon in the</hi> Houſe of Commons, which were read by Sir <hi>Henry Vaine,</hi> and after the reading of them Mr. <hi>Pym</hi> ſpake as followeth.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Hat theſe <hi>Inſtructions</hi> as your <hi>Lordſhips</hi> may perceive conſiſted of ſix <hi>Articles,</hi> of the firſt five he ſhould have no cauſe to ſpeake much, becauſe they could afford no matter of doubt wherefore hee onely recited them thus.</p>
+            <p>The firſt conteined a friendly apprehenſi<g ref="char:EOLhyphen"/>on of the <hi>kindneſſe</hi> of our <hi>Brethren</hi> in the <hi>Parliament</hi> of <hi>Scotland</hi> in their ready offer to aſſiſt this Kingdome againſt the <hi>Rebells</hi> of <hi>Ireland.</hi>
+            </p>
+            <p>The ſecond was onely a <hi>Declaration</hi> of our willingneſſe to accept that offer.</p>
+            <p>The third, a <hi>Narrative</hi> of our proceedings and preparations for that warre.</p>
+            <p>The fourth, a particular <hi>deſire</hi> of 1000. men from the <hi>Scots</hi> to bee ſpeedily ſent into the North parts of <hi>Ireland.</hi>
+            </p>
+            <p>The fift a publike undertaking and ingagement to make ſatisfacti<g ref="char:EOLhyphen"/>on for the charges of thoſe men.</p>
+            <pb n="2" facs="tcp:111764:3"/>
+            <p> The ſixt was to preſent to his moſt excellent <hi>Majeſtie</hi> an humble Petition<hi>:</hi> That he would be pleaſed to change thoſe <hi>Councells</hi> which hath beene ſo miſchievous to the <hi>State,</hi> and of ſo much danger and <hi>miſery</hi> to his <hi>Majeſtie</hi> and his <hi>Subjects,</hi> and to imploy in his great af<g ref="char:EOLhyphen"/>faires ſuch <hi>Councellors</hi> and <hi>Miniſters</hi> as might be approved by his great <hi>Councell</hi> the <hi>Parliament,</hi> this (he ſaid) had beene reſolved by the Houſe of <hi>Commons</hi> with good deliberation, and might perchance ad<g ref="char:EOLhyphen"/>mit ſome ob<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ection, wherefore hee was <hi>Command<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d</hi> to ſpeake ſome<g ref="char:EOLhyphen"/>what to ſhew the <hi>Juſtice</hi> the <hi>Reaſonableneſſe,</hi> the <hi>Neceſſitie</hi> of it therein, wherein (he ſaid) he would proceede by theſe ſteps.</p>
+            <p>The firſt was this, that the dangers and <hi>miſeries</hi> which come to a State by evill <hi>Councels</hi> are of the moſt pernicious and deſtructive na<g ref="char:EOLhyphen"/>ure of all others: The compariſon betwixt a Naturall Body and a Po<g ref="char:EOLhyphen"/>liticke Body is uſuall, they reſemble in nothing more than in this.</p>
+            <p>Death, and ſickneſſe, and d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nger, have divers wayes of <hi>approach</hi> to naturall <hi>Bodies,</hi> ſometimes by outward violence, ſometimes by intem<g ref="char:EOLhyphen"/>perance in diet, exerciſe or unwholeſomneſſe of the <hi>Ayre.</hi>
+            </p>
+            <p>The firſt may be prevented by warineſſe, by courage, by Aſſiſtance.</p>
+            <p>The ſecond ſort are more eaſily cured, the cauſe being knowne.</p>
+            <p>But there is a third ſort of deſeaſes proceeding from the defects of ſome more noble and <hi>vitall</hi> parts, the <hi>Heart,</hi> the <hi>Braine,</hi> the <hi>Liver,</hi> theſe are harder to be cured, the cauſe being not ſo eaſily diſcovered, nor the remedy ſo readily applyed, eſpecially becauſe they weaken and debili<g ref="char:EOLhyphen"/>tate n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ture in thoſe prime <hi>powers</hi> and <hi>offices,</hi> which ſhould <hi>Actuate</hi> and diſpoſe the <hi>Medium</hi> to the procuring of health.</p>
+            <p>The dangers by warres, and the attempt of open enemies may bee compared to the firſt ſort, and may with more facilitie be prevented by the proviſion and oppoſition of Force, the diſorders and diſtempers of a <hi>Common-wealth</hi> by corruption in <hi>Juſtice</hi> by deceites or diſadvantages in Tra<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, by exceſſe in <hi>Luxury</hi> and inordinate expences, they are ſoone diſcovered, and by good Lawes, and care in the execution of them may be certainly prevented, and theſe have ſome reſemblance to the ſecond ſort.</p>
+            <p>But in evill and unfaithfull Councellors are the vitall parts of a State poyſoned and corrupted, the wayes of danger are more ſecret and ſo more difficult to be cured; the remedies are kept out by <hi>power, great<g ref="char:EOLhyphen"/>neſſe</hi> and <hi>authorities,</hi> the ſtate is not onely diſabled to helpe it ſelfe, by
+<pb n="3" facs="tcp:111764:3"/> the want of ſuch principall Members and Inſtruments, but the <hi>power, wiſedome,</hi> and <hi>authoritie</hi> of it is by their <hi>cunning</hi> and <hi>ſubtile</hi> practices tur<g ref="char:EOLhyphen"/>ned againſt it ſelfe, and therefore the dangers and <hi>miſchiefes</hi> that come this way are much more incurable then others.</p>
+            <p>The ſecond point to which he proceeded was this, that there have beene and ſtill are evill <hi>Councels</hi> and <hi>Councellers,</hi> of the time paſt there will be no doubt: The <hi>judgements</hi> againſt ſome, the <hi>accuſation</hi> of others, the <hi>flight</hi> of divers, the <hi>deſignes</hi> upon <hi>Religion,</hi> the <hi>attempts</hi> upon the State, the <hi>oppreſſion</hi> of the <hi>People,</hi> and the manifold diviſions and diſtempers in the <hi>Kingdome</hi> are too great evidences of it, but for the preſent they are ſomewhat quelled, and appeare not ſo boldly; they lurke and whiſper in corners, yet the effects prove there are ſuch, and like poyſon in the roote, they are leſſe viſible, but no leſſe dangerous then when they flouriſh in the hearbe or in the fruite: yet as much as they dare they will take upon them to make <hi>defences</hi> and <hi>appollogies</hi> for the evill <hi>Councells</hi> of others, and ſuch as theſe are apteſt and readieſt to preferment and imployment, which is a ſigne that ſome neare the <hi>King</hi> are <hi>Lovers</hi> and <hi>Patrons</hi> of thoſe that love and preferre evill <hi>Coun<g ref="char:EOLhyphen"/>cellors</hi> to more value and eſteeme.</p>
+            <p>And moſt cleare evidence is this, that all the wicked deſignes againſt the <hi>Parliament</hi> and againſt the <hi>peace</hi> of the <hi>Kingdome,</hi> may be traced home to have their orignall in the <hi>Court,</hi> and to be firſt acted and mo<g ref="char:EOLhyphen"/>ved by ſome p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>incipall perſons neare the <hi>King.</hi>
+            </p>
+            <p>A third was this, that the <hi>Councells</hi> of this time are of a more dange<g ref="char:EOLhyphen"/>rous and deſperate nature, then thoſe of other times and Ages, this State hath often ſuffered under former Princes by evill <hi>Councells,</hi> ſome<g ref="char:EOLhyphen"/>times they have beene ſuch as would flatter his <hi>Majeſtie</hi> in his vices, but we may thanke <hi>God</hi> that his <hi>Majeſties</hi> vertue will give entrance to no ſuch ill <hi>Councells</hi> as theſe, ſometimes they have abuſed the <hi>Power,</hi> and <hi>Authoritie</hi> of the <hi>Prince</hi> for enriching and advancing their owne kindred and friends, and of diſgracing and diſcontenting thoſe of bet<g ref="char:EOLhyphen"/>ter <hi>Merrits:</hi> Others have beene officers to ſtraine the prerogative to the great grievance of the <hi>People,</hi> and in ill Counſells of this kind wee have ſuffered in too great a meaſure, but theſe are farre from the heart of the State they extend not to come and deſtr<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tion, but the <hi>Councell</hi> under which wee groane, and againſt which we labour, they are ſuch as ayme at the alteration of <hi>Religion,</hi> at the ſubvertion of the <hi>fundamen<g ref="char:EOLhyphen"/>tall</hi>
+               <pb n="4" facs="tcp:111764:4"/> 
+               <hi>Lawes,</hi> and <hi>Government,</hi> and in this conſiſts the very <hi>life</hi> and <hi>being</hi> of our <hi>Kingdome,</hi> they are <hi>deadly, pernicious, ruining Councells,</hi> both to this and all other proteſtant States, not to be <hi>parallel'd</hi> in any former time.</p>
+            <p>A fourth was, that all theſe evill and <hi>miſchievous Councells</hi> proceed from <hi>Popery,</hi> and tend to Popery: That is, the <hi>Primum Mobile,</hi> that moves and comprehends all the reſt; there are inferiour <hi>Motions</hi> which tend to more perticular <hi>ends,</hi> but this is the great <hi>end</hi> by which they are all acted and directed: the Religion of the Papiſts is incom<g ref="char:EOLhyphen"/>patible with all other Religions, and hath in it principles diſtructive, not onely to thoſe that are moſt oppoſite to it, but to all that will not fully agree and concurre with them, and though for a time they may comply with others, and make uſe of them, yet in the end they will conſume and deſtroy all that will not wholly turne to them; there is in nature a <hi>formative</hi> vertue, whereby it frames Organs in the <hi>Body</hi> fit for the exerciſe of thoſe ſpecificall operations which are neceſſary for the life and perfection of the <hi>Creature,</hi> and likewiſe a <hi>Nutritive vertue,</hi> whereby it converes other things to the increaſe and preſervation of it ſelfe.</p>
+            <p>There is a ſpirit in Popery which workes ſomewhat after this manner.</p>
+            <p>It moulds factious inſtruments proper to its owne deſignes, and ſo it hath found out wayes and meanes to get ſuch <hi>Officers,</hi> ſuch <hi>Coun<g ref="char:EOLhyphen"/>cellors</hi> both of the <hi>Church</hi> and <hi>State</hi> as would be uſefull for furthering their owne <hi>cauſe,</hi> and then by this <hi>Nutrative</hi> facultie they can apply both <hi>Eccleſiaſticall</hi> and <hi>Civill</hi> Orders, <hi>Conſtitutions</hi> and proceedings to the growth and ſtrength of themſelves and their partie<hi>:</hi> other Reli<g ref="char:EOLhyphen"/>gions may have as much falſhood as this, but no other hath ſuch a de<g ref="char:EOLhyphen"/>ſtructive qualitie as this hath, nor is ſo contrary to the civill <hi>Govern<g ref="char:EOLhyphen"/>ment</hi> of a Proteſtant <hi>Kingdome</hi> as this is.</p>
+            <p>Now that Popery hath a prevayling and predominant <hi>power</hi> in all the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ate <hi>Councells</hi> is cleare by theſe reaſons: The innovations in <hi>Church</hi> Matters have beene ſuch as have made that Religion more plauſible, and the courſe of <hi>government</hi> ſuch as hath made way for the imployment, and preferment of thoſe who have beene Patrons and Protectors of it, by whoſe <hi>Mediation</hi> and <hi>Power,</hi> the profeſſors thereof have received many Immunities, much favour and countenance, to the evident in<g ref="char:EOLhyphen"/>creaſe of their number and ſtrength; what <hi>Maturity</hi> this deſigne is
+<pb n="5" facs="tcp:111764:4"/> come to in <hi>Ireland</hi> we ſee, even to a publike attempt to deſtroy all the Proteſtants there, and to free themſelves from his <hi>Majeſties Govern<g ref="char:EOLhyphen"/>ment,</hi> and that the like was intended both for <hi>England</hi> and <hi>Scotland,</hi> we have no cauſe to doubt, when wee conſider upon what grounds the late <hi>Warre</hi> was procured, and that Prayers have now a long time beene made by thoſe of the Popiſh Religion, for the ſucceſſe of ſome great de<g ref="char:EOLhyphen"/>ſigne in hand for the advancement of that cauſe.</p>
+            <p>A fift was this: That whatſoever <hi>Aides</hi> are given by the Subject, they will be of no effect for the good of the <hi>Kingdome,</hi> unleſſe ſuch <hi>Councels</hi> be removed they will be like reſtoratives to a <hi>diſtempered</hi> body which nouriſh the ſickneſſe, and haſten <hi>Death:</hi> Our <hi>Treaſure</hi> may be conſumed unprofitably, &amp; the <hi>Kingdome</hi> left naked of defence, as it hath lately beene, the Negociations with forraigne <hi>Princes</hi> may be managed to our own diſadvantage, and all the meanes of preſervation fruſtrated or turned to our deſtruction.</p>
+            <p>A Sixt was this; That now was the proper time for deſiring this favour and benifit from his <hi>Majeſtie,</hi> the <hi>Kingdome</hi> was very much ex<g ref="char:EOLhyphen"/>hauſted, a little more would <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>otally undoe us; wee have heretofore ſtrength to beare out ill <hi>Councels,</hi> which now we have not, Relapſes in ſuch a caſe as ours prove commonly more dangerouſly then the firſt ſickneſſe, when, by ſtrength of Nature, the diſtempers prevaile without reſiſtance; if ill <hi>Councels</hi> ſhould now reſume ſtrength, they would grow much more violent and fierce than before: Beſides, this is a time wherein the whole <hi>world</hi> is in Motion and <hi>Agitation,</hi> and ſuch times are ever apteſt for great <hi>Changes</hi> and <hi>Alterations.</hi> There are none of our neighbour <hi>Princes,</hi> but have <hi>Armies</hi> and great <hi>Preparations,</hi> both by ſea and land, and if wee have falſe <hi>Counſell</hi> at home, we may be over<g ref="char:EOLhyphen"/>whelmed upon a ſudden, which could not be done at other times, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<g ref="char:EOLhyphen"/>cauſe any attempt of that kinde would require long time, and more vi<g ref="char:EOLhyphen"/>ſible preparation.</p>
+            <p>Another Reaſon urged for the fitneſſe of the time, was, That his Majeſtie had now great occaſion to uſe the love and fidelity of his peo<g ref="char:EOLhyphen"/>ple in ſervice of <hi>danger</hi> and <hi>expence,</hi> and therefore would be more wil<g ref="char:EOLhyphen"/>ling to expreſſe himſelfe in thoſe things which might be moſt for their incouragement and ſecurity in their great undertakings and <hi>adventures</hi> for his <hi>honour,</hi> and this he ſaid was agreable to the proceedings of <hi>God,</hi> who may be obſerved at ſuch times, a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> he intended to imploy any of his <hi>Prophets</hi> or <hi>Servants</hi> in any great worke, would for the moſt part in<g ref="char:EOLhyphen"/>courage
+<pb n="6" facs="tcp:111764:5"/> in ſome <hi>extraordinary</hi> manner by ſome ſpeciall bleſſing, or pr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>miſe ſome more eminent <hi>Revelation,</hi> or <hi>Miracle</hi> then at other times.</p>
+            <p>The Seventh and laſt Step was this, that his <hi>Majeſtie</hi> in ſatisfying this humble deſire of his Subjects, ſhould gaine very great advantages to himſelfe, and he ſaid, that here in our requeſt to the <hi>King,</hi> ſhould have ſome reſemblance of our prayers to God, we ſhould deſire nothing from him, but what might make for his owne honour and <hi>Happineſſe,</hi> as we ought to pray for nothing from <hi>God,</hi> but what conduceth to his own Glory and Service: The advantages which the <hi>King</hi> will gaine by aſ<g ref="char:EOLhyphen"/>ſenting to this our humble Petition will be theſe.</p>
+            <p n="1">1. It will be a great diſcouragement to the Rebells, when they ſee his Majeſties affaires and proceedings againſt them; are guided by ſuch Councellors and Miniſters as are Adverſe to them, as is evident by the intelligence we have received, that a chiefe point of confidence in the Rebells is this, <hi>That they have ſome friends neare the King here.</hi>
+            </p>
+            <p n="2">2. It will much incourage his <hi>Majeſties</hi> good Subject to hazard their perſons and contribute their ayd to the furtherance of this ſervice, when they ſhall be aſſured that thoſe w<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> governe the Affaires, have publike aymes, and will order and diſpoſe all to the advantage of <hi>Reli<g ref="char:EOLhyphen"/>gion</hi> and the <hi>Common good.</hi>
+            </p>
+            <p n="3">3. It will be a terrour to thoſe who ſhall preſume to move the <hi>King</hi> for any corrupt or unworthy perſon, when they muſt come to an exa<g ref="char:EOLhyphen"/>mination in <hi>Parliament,</hi> becauſe it will be a meanes to bring his <hi>Maje<g ref="char:EOLhyphen"/>ſtie</hi> to diſcerne how they abuſe his truſt and favour, by what ſiniſter end or ſordid reſpects they are guided.</p>
+            <p n="4">4. It will put an anſwer into the <hi>Kings</hi> mouth to all Importunate ſollicitations. Nothing is more troubleſome to a <hi>benigne</hi> and <hi>gratious Prince,</hi> then to deny thoſe who are neare unto him; whereas if he ſhall pleaſe to ſay that he is ingaged to his <hi>people,</hi> this will be a ſure way to take off all envie, and diſcontent from himſelfe, and aſſure him that thoſe whom he ſhall preferre, will depend upon no other.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
